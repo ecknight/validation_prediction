@@ -7,6 +7,7 @@
 #'
 #'From: Knight, E.C., Sòlymos, P, Scott, C., and Bayne, E.M. 2020. Validation prediction: a flexible protocol to increase efficiency of automated acoustic processing for wildlife research. Ecological Applications.
 #'
+#'NOTE: CODE BUG IN PUBLISHED VERSION FIXED. Rescale=FALSE in bandpass filter.
 #' # Preamble
 #'
 #+ echo=FALSE
