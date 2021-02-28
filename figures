@@ -1,3 +1,7 @@
+#title: Figures for Knight et al. 2020. Validation prediction: A protocol for increasing the efficiency of automated acoustic recognition. Ecological Applications.
+#author: Elly C. Knight
+#date: Mar 20, 2020
+
 library(lme4)
 library(nlme)
 library(colorspace)
